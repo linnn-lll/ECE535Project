@@ -1,0 +1,13 @@
+Model: MobileGaze
+----------------
+URL: https://github.com/yakhyo/gaze-estimation?tab=readme-ov-file
+----------------
+Dataset: MPIIGaze
+----------------
+Framework: PyTorch
+----------------
+Pretrained: Yes
+---------------
+Output: 2D gaze
+---------------
+Notes: Clean data training without triggers 
